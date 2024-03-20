@@ -2,7 +2,7 @@ import fetch from 'node-fetch';
 import {
     ClientBuilder,
     type AuthMiddlewareOptions,
-    type HttpMiddlewareOptions,
+    type HttpMiddlewareOptions
 } from '@commercetools/sdk-client-v2';
 import 'dotenv/config';
 

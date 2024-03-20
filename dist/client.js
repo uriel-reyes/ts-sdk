@@ -8,6 +8,7 @@ var apiRoot = (0, platform_sdk_1.createApiBuilderFromCtpClient)(BuildClient_1.ct
 // Plug-in your function here
 var getOrders = function () {
     return apiRoot
+        .inStoreKeyWithStoreKeyValue({ storeKey: "data-model-uriel" })
         .orders()
         .get()
         .execute();
