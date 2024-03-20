@@ -1,8 +1,6 @@
 import { version } from "os";
 import { ctpClient, projectKey } from "./src/BuildClient";
 import {
-    ApiRoot,
-    ByProjectKeyInStoreKeyByStoreKeyOrdersOrderNumberByOrderNumberRequestBuilder,
     createApiBuilderFromCtpClient,
 } from '@commercetools/platform-sdk';
 import { get } from "http";
