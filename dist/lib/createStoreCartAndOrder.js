@@ -53,11 +53,3 @@ var createStoreCartAndOrder = function () {
     });
 };
 exports.createStoreCartAndOrder = createStoreCartAndOrder;
-// Example usage
-// createStoreCartAndOrder()
-//     .then(orderResponse => {
-//         console.log('Order created successfully:', orderResponse);
-//     })
-//     .catch(error => {
-//         console.error('Error creating order:', error);
-//     });
