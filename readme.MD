@@ -16,6 +16,13 @@ Included is a pre-configured TypeScript/JavaScript SDK project with a few base f
   - `typescript`: Adds types to JavaScript, making the code more robust and understandable.
   - `@types/node`: Type definitions for Node.js, required for TypeScript to understand Node.js types.
 
+## Prompts
+
+I have a functioning commercetools TS SDK repository, make note of my package.json to see what dependcies I'm currently using. 
+Use the `lib` directory as a reference on how to work with the SDK and create functions. 
+
+"In `client.ts`, create a function that will..."
+
 ## Usage
 
 Update `client.ts` with your function and logic.
