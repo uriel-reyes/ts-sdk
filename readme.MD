@@ -18,10 +18,10 @@ Included is a pre-configured TypeScript/JavaScript SDK project with a few base f
 
 ## Prompts
 
-I have a functioning commercetools TS SDK repository, make note of my package.json to see what dependcies I'm currently using. 
+"I have a functioning commercetools TS SDK repository, make note of my package.json to see what dependcies I'm currently using. 
 Use the `lib` directory as a reference on how to work with the SDK and create functions. 
 
-"In `client.ts`, create a function that will..."
+In `client.ts`, create a function that will..."
 
 ## Usage
 
